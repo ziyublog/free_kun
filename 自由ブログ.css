@@ -1,0 +1,183 @@
+body{
+    background-color: rgb(236, 236, 236);
+    padding-top: 0px;
+    margin: 0;
+    text-align: center;
+}
+div{
+    margin: 0 auto;
+    width: 500px;
+    background-color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+header
+  h1{
+    background-color: black;
+    color: white;
+    margin: 0 ;
+    padding-top: 0px;
+    height: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+  } 
+footer{
+    background-color: white;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+}
+h1{
+    padding: 15px;
+    font-size: 28px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+ul {
+  background: #fcfcfc;/*背景色*/
+  padding: 0.5em 0.5em 0.5em 2em;/*ボックス内の余白*/
+  border: solid 3px gray;/*線の種類 太さ 色*/
+}
+
+ul li {
+  line-height: 1.5; /*文の行高*/
+  padding: 0.5em 0; /*前後の文との余白*/
+  font-weight: bold;
+}
+ol {
+  background: #fcfcfc;/*背景色*/
+  padding: 0.5em 0.5em 0.5em 2em;/*ボックス内の余白*/
+  border: solid 3px gray;/*線の種類 太さ 色*/
+  margin: 0px;
+}
+
+ol li {
+  line-height: 1.5; /*文の行高*/
+  padding: 0.5em 0; /*前後の文との余白*/
+  font-weight: bold;
+
+}
+ol {
+  background: #fcfcfc;/*背景色*/
+  padding: 0.5em 0.5em 0.5em 2em;/*ボックス内の余白*/
+  border: solid 3px gray;/*線の種類 太さ 色*/
+  margin: 0px;
+}
+
+ol p {
+  line-height: 1.5; /*文の行高*/
+  padding: 0.5em 0; /*前後の文との余白*/
+  font-weight: bold;
+  padding-top: 0px;
+}
+h2 {
+  padding: 0;
+  margin: 0px;
+}
+
+h2 {
+  color: #404040;
+  border-left: solid 6px #000000;/*左側の線*/
+  border-bottom: solid 2px #dadada;/*下に灰色線*/
+  background: whitesmoke;
+  margin-bottom: 5px;/*下のバーとの余白*/
+  line-height: 1.5;
+  padding: 0.5em;
+  list-style-type: none!important;/*ポチ消す*/
+  font-weight: bold;
+}
+h3 {
+  padding: 0;
+}
+
+h4 {
+  padding: 0;
+}
+
+h4 {
+  color: #404040;
+  border-left: solid 6px #000000;/*左側の線*/
+  border-bottom: solid 2px #dadada;/*下に灰色線*/
+  background: whitesmoke;
+  margin-bottom: 5px;/*下のバーとの余白*/
+  line-height: 1.5;
+  padding: 0.5em;
+  list-style-type: none!important;/*ポチ消す*/
+  font-weight: bold;
+}
+h3 {
+  padding: 0;
+}
+
+h3 {
+  color: #404040;
+  border-left: solid 6px #000000;/*左側の線*/
+  border-bottom: solid 2px #dadada;/*下に灰色線*/
+  background: whitesmoke;
+  margin-bottom: 5px;/*下のバーとの余白*/
+  line-height: 1.5;
+  padding: 0.5em;
+  list-style-type: none!important;/*ポチ消す*/
+  font-weight: bold;
+}
+  
+  ul li, ol li {
+    line-height: 1.5;
+    padding: 0.5em 0;
+  }
+
+h5{
+  padding : 5px;
+  font-size: 26px;
+  text-align: center;
+  font-weight: bold;
+  color: #000000;
+  margin: 0px;
+  margin-top: 15px;
+}
+
+h6{
+  padding: 5px;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+  color: #000000;
+}
+p{
+  color: #000000;
+}
+strong{
+  font-weight: bold;
+  color: #000000;
+}
+header{
+  margin: 0;
+  padding-top: 0px;
+}
+img{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+menu{
+  margin: 0px;
+  padding: 0px;
+  padding-top: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+@media screen and (max-width :481px) {
+h1{
+  width: 500px;
+}
+}
+@media screen and (min-width:480px) {
+}
